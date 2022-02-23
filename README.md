@@ -1,5 +1,6 @@
 # WeiboCommentsWebCrawler
-用来爬取指定微博博文评论
+## 功能
+爬取**指定微博**的评论，并绘制全部评论的词云。
 
 ## 使用方法
 更改 01GetWeiboCommets.py 文件中的 id 和 pids 即可。
